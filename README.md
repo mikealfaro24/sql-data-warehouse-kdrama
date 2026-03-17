@@ -38,6 +38,11 @@ Before ingestion, I cleaned and validated the data in Excel, including numeric f
 
 This structure allowed advanced analysis using window functions, ranking, aggregation, and year-normalized baselines while maintaining data integrity.
 
+## ERD 
+
+
+![ERD](https://github.com/mikealfaro24/data_warehouse_project_kdrama/blob/a6203f926eeeae7d7ed9b9621cd5c6aa49e9978f/docs/kdrama-ERD.png)
+
 ---
 
 ## Executive Summary
